@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iapx432
 - 👀 I’m interested in mechatronics, control systems, motion
 - 🌱 I’m currently learning vhdl, cuda, kinematics, neural network control
-- 💞️ I’m looking to collaborate on Diamond Wire Cutter machine
+- 💞️
 - 📫 How to reach me instagram:@openmatrixproject
 
 <!---
